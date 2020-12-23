@@ -18,3 +18,12 @@ if (avg >= 80) {
     alert("you are above standard, Admission Granted!")
 }
 }
+
+var num = prompt('Please enter a number: ')
+if(num){
+if (num%2 ==0){
+    alert('Number is even.')
+}
+else{
+    alert('Number is odd.')
+}}
